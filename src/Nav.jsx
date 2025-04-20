@@ -8,7 +8,7 @@ const Nav = () => {
     <h1 className='text-2xl text-[rgb(0,63,164)] font'>Auction<span className='text-[rgb(225,211,55)]'>Gallery</span></h1>
   </div>
   <div className=" flex  gap-3 lg:gap-7 font-semibold pb-5 md:pb-0">
-   <div>Home</div>
+   <div>Home </div>
    <div>Auctions</div>
    <div>Categories</div>
    <div>How To Works</div>
